@@ -60,8 +60,3 @@ Relacionamentos:
 - Pedido 1:N ItemPedido
 - Produto 1:N ItemPedido
 - Pedido 1:1 Pagamento
-
----
-
-## 👤 Autor
-Seu Nome Aqui
